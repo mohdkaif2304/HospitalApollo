@@ -19,14 +19,14 @@ The RegisterActivity class allows new users to register by providing a username 
 SharedPreferences
 The application utilizes SharedPreferences to store user session data, such as the username. This allows for persistent user authentication across different activities within the application.
 ## SCREENSHOTS
+![Screenshot 2024-03-26 140954](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/67f1b046-d55c-43f7-87d6-42ac7935c0d2)
+![Screenshot 2024-03-26 140845](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/7505c650-6a14-4bdc-aad9-1dcc1c3a61f2)
+![Screenshot 2024-03-26 141215](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/43efad43-5849-4aa6-ac85-16ecdb20c26c)
 .![Screenshot 2024-03-26 141202](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/2515adf1-aae4-45d3-93b6-327eb7fe5118) 
 ![Screenshot 2024-03-26 141146](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/5618c275-c974-43f9-8af0-980399547a86)
 ![Screenshot 2024-03-26 141127](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/d8ee9782-0a24-4084-9119-63023053fb6a)
 ![Screenshot 2024-03-26 141105](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/6bc157bf-fa01-4d48-a0f6-076a98ff2146)
 ![Screenshot 2024-03-26 141048](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/225d4c9f-48a4-4313-9236-952771ad9079)
-![Screenshot 2024-03-26 140954](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/67f1b046-d55c-43f7-87d6-42ac7935c0d2)
-![Screenshot 2024-03-26 140845](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/7505c650-6a14-4bdc-aad9-1dcc1c3a61f2)
-![Screenshot 2024-03-26 141215](https://github.com/mohdkaif2304/HospitalApollo/assets/118160035/43efad43-5849-4aa6-ac85-16ecdb20c26c)
 
 ## Usage
 To use the Apollo Hospital application:
